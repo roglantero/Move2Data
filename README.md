@@ -1,6 +1,5 @@
 # Move2Data
 Standardized preprocessing approach for human movement data, which has been tested using the most complex type of movement, namely dance. The main problems faced when preprocessing such data are the coordinate detection, missing values, value range, combination with extra features, and the model input preparation. The AIST Dance Database is used to test this. The proposed framework addresses all issues mentioned above.
 
-![alt text](https://github.com/roglantero/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Move2DataFramework](https://github.com/roglantero/Move2Data/blob/main/Move2Data_Framework.png?raw=true)
 
-Move2Data/Move2Data_Framework.png
