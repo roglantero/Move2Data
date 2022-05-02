@@ -12,4 +12,8 @@ This folder is the library with all necessary files to preprocess the human move
 
 *Move2Data Tutorial*
 
-This file is a jupyter Notebook showing how each function is used
+This file is a jupyter Notebook showing how each function is used.
+
+## Contact
+
+If you have any doubts please contact rgonzalez.ieu2018@student.ie.edu.
